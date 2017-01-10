@@ -1,2 +1,2 @@
 # SecretDiaryApp
-Project using PHP and SQL
+Project using PHP, SQL and md5 encryption
